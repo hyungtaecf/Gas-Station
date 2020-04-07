@@ -5,11 +5,12 @@
 Project made at the Internet of Things class using Arduino and App Inventor.
 
 It's an Android app that tells you the nearest free place at a gas station.
-This project was done through a program that uses a sensor for each vacancy in the station to detect if there are cars and an Arduino board. Through the App Inventor platform it was possible to easily implement a speech function.
+This project was done through a program that uses a sensor for each vacancy in the station to detect if there are cars and an Arduino board. Through the App Inventor platform it was possible to easily implement a text-to-speech function.
 
 ## Skills
 - Arduino
 - Using Sensors and Arduino Kit
 - App Inventor
 - Blutooth connection on App Inventor
+- Text-to-Speech
 - Learning Internet of Things
